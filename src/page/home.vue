@@ -1,6 +1,6 @@
 <template>
-  <div id="app">
-    666
+  <div>
+    我是home
   </div>
 </template>
 
