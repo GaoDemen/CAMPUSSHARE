@@ -1,12 +1,12 @@
 <template>
   <div>
-    我是home
+   <router-view/>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'index'
 }
 </script>
 
