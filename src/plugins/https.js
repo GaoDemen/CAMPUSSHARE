@@ -20,7 +20,7 @@ class Axios {
     return this.promise;
   }
 
-    /**
+  /**
    * POST 请求
    * @returns {Promise}
    */
