@@ -1,6 +1,6 @@
 <template>
   <div>
-      2
+     这是我的页面
   </div>
 </template>
 
